@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                textView.setText("Life is good");
+                textView.setText("Life is bad");
 
             }
         });
